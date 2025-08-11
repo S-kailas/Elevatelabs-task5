@@ -1,0 +1,4 @@
+Protocols I found in the wireshark session
+TCP- This is a protocol which decide how the packets should be send across the internet , It's one of the relialble Transport layer the alternative of tcp is udp which is not reliable but fast no syn,ack etc
+QUIC- its a modified udp which include tls security also
+DNS- For finding corresponding ip adress of the searched domain name , it is transported by udp by default 
